@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# Machine Learning Algorithms from scratch in Python
 ### My implementation from scratch some machine learning algorithms using Python
 
 Each algorithm is stored in a separate directory that contains a notebook and a .py file. 
