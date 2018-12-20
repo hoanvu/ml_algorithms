@@ -9,4 +9,5 @@ Each algorithm is stored in a separate directory that contains a notebook and a 
 
 ## List of algorithms
 - [K-nearnest neighbors](https://github.com/hoanvu/ml_algorithms/tree/master/k_nearest_neighbor)
+- [K-means clustering](https://github.com/hoanvu/ml_algorithms/tree/master/k_means_clustering)
 - [Perceptron](https://github.com/hoanvu/ml_algorithms/tree/master/perceptron)
